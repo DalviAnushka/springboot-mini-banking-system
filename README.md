@@ -143,7 +143,7 @@ springboot-mini-banking-system/
 
 ---
 
-# 🔮 Future Enhancements
+# Future Enhancements
 
 * JWT Authentication (Login system)
 * Admin dashboard
@@ -162,8 +162,6 @@ PRs are welcome. 🌟
 # Author
 
 **Anushka Dalvi**
-✨ Passionate about Full-Stack Development
-📚 Learning Spring Boot & React
 
 ---
 
