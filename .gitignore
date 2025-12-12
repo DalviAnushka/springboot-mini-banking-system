@@ -1,0 +1,22 @@
+# Java / Spring
+target/
+*.class
+*.log
+/*.iml
+/.idea/
+
+# Maven wrapper
+.mvn/
+
+# IDE
+.vscode/
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+*.env
+
+# OS
+Thumbs.db
+.DS_Store
