@@ -3,12 +3,12 @@
 A full-stack **banking management system** built using **Spring Boot**, **MySQL**, and **React.js**.
 It supports:
 
-- ✔ Create Account  
-- ✔ Deposit / Withdraw / Transfer  
-- ✔ Transaction History  
-- ✔ CSV Export  
-- ✔ Analytics Dashboard (Charts + KPIs)  
-- ✔ Clean UI with beautiful charts  
+- Create Account  
+- Deposit / Withdraw / Transfer  
+- Transaction History  
+- CSV Export  
+- Analytics Dashboard (Charts + KPIs)  
+- Clean UI with beautiful charts  
 
 
 ## 🎥 Project Demo Video
@@ -19,16 +19,16 @@ It supports:
 
 ### 🏠 Dashboard
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/<your-username>/springboot-mini-banking-system/main/screenshots/dashboard.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/DalviAnushka/springboot-mini-banking-system/main/screenshots/dashboard.png)
 
 ### 💸 Transaction Page
 
-![Transaction Screenshot](https://raw.githubusercontent.com/<your-username>/springboot-mini-banking-system/main/screenshots/transaction.png)
+![Transaction Screenshot](https://raw.githubusercontent.com/DalviAnushka/springboot-mini-banking-system/main/screenshots/transaction.png)
 
 
 ### 📊 Full Analytics
 
-![Analytics Screenshot](https://raw.githubusercontent.com/<your-username>/springboot-mini-banking-system/main/screenshots/Analytics.png)
+![Analytics Screenshot](https://raw.githubusercontent.com/DalviAnushka/springboot-mini-banking-system/main/screenshots/Analytics.png)
 
 
 # 🏗️ Tech Stack
